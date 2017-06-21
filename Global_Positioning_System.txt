@@ -1,0 +1,39 @@
+The Global Positioning System (GPS), originally Navstar GPS,[1][2] is a space-based
+ radionavigation system owned by the United States government and operated by the
+ United States Air Force. It is a global navigation satellite system that provides
+ geolocation and time information to a GPS receiver anywhere on or near the Earth
+ where there is an unobstructed line of sight to four or more GPS satellites.[3]
+
+The GPS system does not require the user to transmit any data, and it operates
+ independently of any telephonic or internet reception, though these technologies
+ can enhance the usefulness of the GPS positioning information. The GPS system
+ provides critical positioning capabilities to military, civil, and commercial
+ users around the world. The United States government created the system,
+ maintains it, and makes it freely accessible to anyone with a GPS receiver.
+ However, the US government can selectively deny access to the system, as
+ happened to the Indian military in 1999 during the Kargil War.[4]
+
+The GPS project was launched in the United States in 1973 to overcome the
+ limitations of previous navigation systems,[5] integrating ideas from several
+ predecessors, including a number of classified engineering design studies from
+ the 1960s. The U.S. Department of Defense developed the system, which originally
+ used 24 satellites. It became fully operational in 1995. Roger L. Easton of the
+ Naval Research Laboratory, Ivan A. Getting of The Aerospace Corporation, and
+ Bradford Parkinson of the Applied Physics Laboratory are credited with inventing
+ it.[6]
+
+Advances in technology and new demands on the existing system have now led to
+ efforts to modernize the GPS and implement the next generation of GPS Block
+ IIIA satellites and Next Generation Operational Control System (OCX).[7]
+ Announcements from Vice President Al Gore and the White House in 1998 initiated
+ these changes. In 2000, the U.S. Congress authorized the modernization effort,
+ GPS III.
+
+In addition to GPS, other systems are in use or under development, mainly because
+ of a potential denial of access by the US government. The Russian Global Navigation
+ Satellite System (GLONASS) was developed contemporaneously with GPS, but suffered
+ from incomplete coverage of the globe until the mid-2000s.[8] GLONASS can be added
+ to GPS devices, making more satellites available and enabling positions to be fixed
+ more quickly and accurately, to within two meters.[9] There are also the European
+ Union Galileo positioning system, China's BeiDou Navigation Satellite System and
+ India's NAVIC.
