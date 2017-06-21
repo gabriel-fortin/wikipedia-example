@@ -35,5 +35,5 @@ In addition to GPS, other systems are in use or under development, mainly becaus
  from incomplete coverage of the globe until the mid-2000s.[8] GLONASS can be added
  to GPS devices, making more satellites available and enabling positions to be fixed
  more quickly and accurately, to within two meters.[9] There are also the European
- Union Galileo positioning system, China's BeiDou Navigation Satellite System and
- India's NAVIC.
+ Union Galileo positioning system, China's BeiDou Navigation Satellite System, India's
+ NAVIC and Japan's Quasi-Zenith Satellite System.
